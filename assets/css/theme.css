@@ -2012,9 +2012,7 @@ body.loaded:after {
 
 .stroke-text {
   color: white;
-  -webkit-text-fill-color: transparent;
-  -webkit-text-stroke-width: 1.4px;
-  -webkit-text-stroke-color: white;
+  -webkit-text-fill-color: #ffffff;
 }
 
 @media (max-width: 1199.98px) {
